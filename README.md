@@ -1,22 +1,23 @@
 **Project Overview**
 
-This project demonstrates an end-to-end data analytics and reporting solution built using Microsoft Fabric. It showcases how structured and unstructured data can be ingested, processed, and transformed into meaningful business insights using a modern Medallion Architecture approach.The goal of this project is to highlight practical experience in data engineering concepts, analytics workflows, and Power BI reporting, aligned with real-world enterprise scenarios.
+This project was designed and implemented using Microsoft Fabric, leveraging both structured and unstructured sample data. The solution follows the Medallion Architecture approach to ensure scalable, organized, and high-quality data processing.
 
-**Solution Architecture**
+**Architecture Flow**
 
-The project follows the Medallion Architecture to ensure data quality, scalability, and reusability:
 1.	Data Ingestion
-Data is ingested from  APIs and files (Structured and Unstructured)
-2.	Bronze Layer (Raw Data)
-Stores raw structured and unstructured data with minimal transformations.
-3.	Initial Processing
-Basic data validation, standardization, and schema alignment.
-4.	Silver Layer (Cleaned Data)
-Cleaned, transformed, and enriched data prepared for analytics use cases.
-5.	Further Processing
-Business rules, aggregations, and data enrichment applied.
-6.	Gold Layer (Curated Data)
-Analytics-ready datasets optimized for reporting and decision-making.
-7.	Data Visualization
-Interactive dashboards and reports built in Power BI to deliver business insights.
+2.	Bronze Layer – Raw data storage
+3.	Initial Processing – Basic validation and standardization
+4.	Silver Layer – Cleaned and transformed data
+5.	Further Processing – Business logic and enrichment
+6.	Gold Layer – Analytics-ready, curated data
+7.	Data Visualization – Insights and reporting
+   
+**Technologies & Components Used**
+
+1.	APIs
+2.	Lakehouse (Delta tables)
+3.	Notebooks (PySpark)
+4.	Pipelines
+5.	Dataflow Gen2
+6.	Power BI
 
