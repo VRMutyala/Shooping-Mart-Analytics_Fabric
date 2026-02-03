@@ -56,3 +56,8 @@ This project was designed and implemented using Microsoft Fabric, leveraging bot
 **Semantic Model**
 <img width="1807" height="798" alt="image" src="https://github.com/user-attachments/assets/1abc3d21-ccfb-4573-9c54-ac871ad3eb0d" />
 
+**Visulizations**
+<img width="1275" height="712" alt="image" src="https://github.com/user-attachments/assets/065e7856-ebce-4972-b0a3-bcc02a730653" />
+<img width="1273" height="710" alt="image" src="https://github.com/user-attachments/assets/9450fb7d-d0f2-4528-ad30-87c576bfa235" />
+
+
