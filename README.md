@@ -4,7 +4,7 @@ This project was designed and implemented using Microsoft Fabric, leveraging bot
 
 **Architecture Flow**
 
-1.	Data Ingestion
+1.	Data Ingestion - API (Structured and Unstructured)
 2.	Bronze Layer – Raw data storage
 3.	Initial Processing – Basic validation and standardization
 4.	Silver Layer – Cleaned and transformed data
